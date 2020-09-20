@@ -1,7 +1,13 @@
+---
+layout: default
+title: Find Largest
+---
+
+Construct a program that for two variables, x and y, prints out which is the largest - or if both are the same, prints out the message that they are equal
+
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
-<p>Find Largest</p>
 <p> 
     <input id="feedbackLink" value="Get Feedback" type="button" /> 
     <input id="newInstanceLink" value="Reset Problem" type="button" /> 
