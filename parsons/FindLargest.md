@@ -3,7 +3,9 @@ layout: default
 title: Find Largest
 ---
 
-Construct a program that for two variables, x and y, prints out which is the largest - or if both are the same, prints out the message that they are equal
+<p>
+Construct a program that for two variables, x and y, prints out which is the largest - or if both are the same, prints out the message that they are equal.
+</p>
 
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
